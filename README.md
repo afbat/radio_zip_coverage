@@ -2,7 +2,7 @@ This code is for data collection for my dissertation.
 
 Part of my dissertation entails mapping out where different types of traditional media cover within Michigan's Upper Peninsula. Since I am looking at the relationship between media source availability and remoteness, this also incorporaes the USDA-ERS Frontier and Remote Areas Codes.
 
-TV is relatively easy to identify at the ZIP code level, as ZIP codes are organized into DMAs. However, this is a little more complicated for radio. The FCC provides contour data for FM radio coverage through shapefiles. Howevver, the nature of AM radio  often makes it more difficult to plot out contour areas. 
+TV is relatively easy to identify at the ZIP code level, as ZIP codes are organized into DMAs. However, this is a little more complicated for radio. The FCC provides contour data for FM radio coverage through shapefiles. Howevver, the nature of AM radio  often makes it more difficult to consistently assess and plot out contour areas. 
 
 However, <a href = "https://www.v-soft.com/on-line-based-software/zipsignal"> V-Soft </a> provides a nice estimation of AM radio coverage at the ZIP code level based on frequency strength. They also provide this for FM stations as well. 
 
