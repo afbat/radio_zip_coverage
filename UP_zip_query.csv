@@ -1,0 +1,143 @@
+﻿ZIP,county,state,all_county1,all_county2,all_county3,all_county4,municipality
+49710,Chippewa,MI,Chippewa,NA,NA,NA,Barbeau
+49715,Chippewa,MI,Chippewa,NA,NA,NA,Brimley
+49719,Mackinac,MI,Mackinac,NA,NA,NA,Cedarville
+49719,Chippewa,MI,Mackinac,NA,NA,NA,Cedarville
+49724,Chippewa,MI,Chippewa,NA,NA,NA,Dafter
+49725,Chippewa,MI,Chippewa,NA,NA,NA,De Tour Village
+49726,Chippewa,MI,Chippewa,NA,NA,NA,Drummond Island
+49728,Chippewa,MI,Chippewa,NA,NA,NA,Eckerman
+49736,Chippewa,MI,Chippewa,NA,NA,NA,Goetzville
+49745,Mackinac,MI,Mackinac,NA,NA,NA,Hessel
+49752,Chippewa,MI,Chippewa,NA,NA,NA,Kinross
+49757,Mackinac,MI,Mackinac,NA,NA,NA,Mackinac Island
+49760,Chippewa,MI,Mackinac,NA,NA,NA,Moran
+49760,Mackinac,MI,Mackinac,NA,NA,NA,Moran
+49762,Mackinac,MI,Mackinac,NA,NA,NA,Naubinway
+49768,Chippewa,MI,Chippewa,NA,NA,NA,Paradise
+49774,Chippewa,MI,Chippewa,Mackinac,NA,NA,Pickford
+49774,Mackinac,MI,Chippewa,Mackinac,NA,NA,Pickford
+49775,Mackinac,MI,Mackinac,NA,NA,NA,Pointe aux Pins
+49780,Chippewa,MI,Chippewa,Mackinac,NA,NA,Rudyard
+49780,Mackinac,MI,Chippewa,Mackinac,NA,NA,Rudyard
+49781,Mackinac,MI,Mackinac,NA,NA,NA,Saint Ignace
+49783,Chippewa,MI,Chippewa,NA,NA,NA,Sault Sainte Marie
+49788,Chippewa,MI,Chippewa,NA,NA,NA,Kincheloe
+49801,Dickinson,MI,Dickinson,NA,NA,NA,Iron Mountain
+49802,Dickinson,MI,Dickinson,NA,NA,NA,Kingsford
+49805,Houghton,MI,Keweenaw,Houghton,NA,NA,Allouez
+49805,Keweenaw,MI,Keweenaw,Houghton,NA,NA,Allouez
+49806,Alger,MI,Alger,NA,NA,NA,Au Train
+49807,Menominee,MI,Delta,Menominee,Dickinson,NA,Bark River
+49807,Delta,MI,Delta,Menominee,Dickinson,NA,Bark River
+49812,Menominee,MI,Menominee,NA,NA,NA,Carney
+49814,Marquette,MI,Marquette,NA,NA,NA,Champion
+49815,Dickinson,MI,Dickinson,NA,NA,NA,Channing
+49816,Alger,MI,Alger,NA,NA,NA,Chatham
+49817,Delta,MI,Schoolcraft,Delta,NA,NA,Cooks
+49817,Schoolcraft,MI,Schoolcraft,Delta,NA,NA,Cooks
+49818,Marquette,MI,Delta,Marquette,NA,NA,Cornell
+49818,Delta,MI,Delta,Marquette,NA,NA,Cornell
+49820,Mackinac,MI,Mackinac,NA,NA,NA,Curtis
+49821,Menominee,MI,Menominee,NA,NA,NA,Daggett
+49822,Marquette,MI,Alger,Marquette,NA,NA,Deerton
+49822,Alger,MI,Alger,Marquette,NA,NA,Deerton
+49825,Alger,MI,Alger,NA,NA,NA,Eben Junction
+49826,Alger,MI,Alger,NA,NA,NA,Rumely
+49827,Mackinac,MI,Mackinac,NA,NA,NA,Engadine
+49829,Delta,MI,Delta,NA,NA,NA,Escanaba
+49831,Marquette,MI,Dickinson,Marquette,NA,NA,Felch
+49831,Dickinson,MI,Dickinson,Marquette,NA,NA,Felch
+49833,Marquette,MI,Marquette,NA,NA,NA,Little Lake
+49834,Dickinson,MI,Dickinson,NA,NA,NA,Foster City
+49835,Delta,MI,Delta,NA,NA,NA,Garden
+49836,Mackinac,MI,Schoolcraft,Mackinac,NA,NA,Germfask
+49836,Schoolcraft,MI,Schoolcraft,Mackinac,NA,NA,Germfask
+49837,Delta,MI,Delta,NA,NA,NA,Gladstone
+49838,Mackinac,MI,Mackinac,NA,NA,NA,Gould City
+49839,Alger,MI,Alger,NA,NA,NA,Grand Marais
+49840,Schoolcraft,MI,Schoolcraft,NA,NA,NA,Gulliver
+49841,Marquette,MI,Marquette,NA,NA,NA,Gwinn
+49847,Menominee,MI,Menominee,NA,NA,NA,Hermansville
+49848,Menominee,MI,Menominee,NA,NA,NA,Ingalls
+49849,Marquette,MI,Marquette,NA,NA,NA,Ishpeming
+49853,Mackinac,MI,Luce,Mackinac,NA,NA,Mc Millan
+49853,Luce,MI,Luce,Mackinac,NA,NA,Mc Millan
+49854,Delta,MI,Schoolcraft,Delta,NA,NA,Manistique
+49854,Schoolcraft,MI,Schoolcraft,Delta,NA,NA,Manistique
+49855,Marquette,MI,Marquette,Alger,NA,NA,Marquette
+49858,Menominee,MI,Menominee,NA,NA,NA,Menominee
+49861,Marquette,MI,Marquette,Baraga,NA,NA,Michigamme
+49861,Baraga,MI,Marquette,Baraga,NA,NA,Michigamme
+49862,Alger,MI,Alger,NA,NA,NA,Munising
+49866,Marquette,MI,Marquette,NA,NA,NA,Negaunee
+49868,Luce,MI,Luce,NA,NA,NA,Newberry
+49870,Dickinson,MI,Dickinson,NA,NA,NA,Norway
+49873,Menominee,MI,Menominee,Dickinson,NA,NA,Perronville
+49874,Menominee,MI,Menominee,NA,NA,NA,Powers
+49876,Dickinson,MI,Dickinson,NA,NA,NA,Quinnesec
+49878,Delta,MI,Delta,Alger,NA,NA,Rapid River
+49878,Alger,MI,Delta,Alger,NA,NA,Rapid River
+49879,Marquette,MI,Marquette,Iron,NA,NA,Republic
+49879,Iron,MI,Marquette,Iron,NA,NA,Republic
+49880,Marquette,MI,Delta,Marquette,NA,NA,Rock
+49880,Delta,MI,Delta,Marquette,NA,NA,Rock
+49881,Dickinson,MI,Dickinson,NA,NA,NA,Sagola
+49883,Schoolcraft,MI,Schoolcraft,Alger,NA,NA,Seney
+49883,Alger,MI,Schoolcraft,Alger,NA,NA,Seney
+49884,Schoolcraft,MI,Alger,Schoolcraft,NA,NA,Shingleton
+49884,Alger,MI,Alger,Schoolcraft,NA,NA,Shingleton
+49885,Marquette,MI,Marquette,Alger,NA,NA,Skandia
+49885,Alger,MI,Marquette,Alger,NA,NA,Skandia
+49886,Menominee,MI,Menominee,NA,NA,NA,Spalding
+49887,Menominee,MI,Menominee,NA,NA,NA,Stephenson
+49891,Alger,MI,Alger,NA,NA,NA,Trenary
+49892,Dickinson,MI,Dickinson,Menominee,NA,NA,Vulcan
+49892,Menominee,MI,Dickinson,Menominee,NA,NA,Vulcan
+49893,Menominee,MI,Menominee,NA,NA,NA,Wallace
+49894,Delta,MI,Delta,NA,NA,NA,Wells
+49895,Delta,MI,Alger,Delta,Schoolcraft,NA,Wetmore
+49895,Alger,MI,Alger,Delta,Schoolcraft,NA,Wetmore
+49895,Schoolcraft,MI,Alger,Delta,Schoolcraft,NA,Wetmore
+49896,Menominee,MI,Menominee,NA,NA,NA,Wilson
+49905,Houghton,MI,Houghton,NA,NA,NA,Atlantic Mine
+49908,Baraga,MI,Baraga,NA,NA,NA,Baraga
+49910,Ontonagon,MI,Ontonagon,NA,NA,NA,Bergland
+49911,Gogebic,MI,Gogebic,NA,NA,NA,Bessemer
+49912,Ontonagon,MI,Ontonagon,NA,NA,NA,Bruce Crossing
+49913,Houghton,MI,Houghton,Keweenaw,NA,NA,Calumet
+49913,Keweenaw,MI,Houghton,Keweenaw,NA,NA,Calumet
+49916,Houghton,MI,Houghton,NA,NA,NA,Chassell
+49919,Baraga,MI,Baraga,NA,NA,NA,Covington
+49920,Iron,MI,Iron,NA,NA,NA,Crystal Falls
+49921,Houghton,MI,Houghton,NA,NA,NA,Dodgeville
+49925,Ontonagon,MI,Ontonagon,NA,NA,NA,Ewen
+49927,Iron,MI,Iron,NA,NA,NA,Gaastra
+49930,Houghton,MI,Houghton,NA,NA,NA,Hancock
+49931,Houghton,MI,Houghton,NA,NA,NA,Houghton
+49935,Iron,MI,Iron,NA,NA,NA,Iron River
+49938,Gogebic,MI,Gogebic,NA,NA,NA,Ironwood
+49945,Houghton,MI,Houghton,Keweenaw,NA,NA,Lake Linden
+49945,Keweenaw,MI,Houghton,Keweenaw,NA,NA,Lake Linden
+49946,Baraga,MI,Baraga,NA,NA,NA,Lanse
+49947,Ontonagon,MI,Gogebic,Ontonagon,NA,NA,Marenisco
+49947,Gogebic,MI,Gogebic,Ontonagon,NA,NA,Marenisco
+49948,Houghton,MI,Ontonagon,NA,NA,NA,Mass City
+49948,Ontonagon,MI,Ontonagon,NA,NA,NA,Mass City
+49950,Keweenaw,MI,Keweenaw,NA,NA,NA,Mohawk
+49952,Houghton,MI,Houghton,Ontonagon,NA,NA,Nisula
+49952,Ontonagon,MI,Houghton,Ontonagon,NA,NA,Nisula
+49953,Ontonagon,MI,Ontonagon,NA,NA,NA,Ontonagon
+49958,Houghton,MI,Houghton,Baraga,NA,NA,Pelkie
+49958,Baraga,MI,Houghton,Baraga,NA,NA,Pelkie
+49962,Baraga,MI,Baraga,NA,NA,NA,Skanee
+49963,Houghton,MI,Houghton,NA,NA,NA,South Range
+49965,Houghton,MI,Houghton,Ontonagon,NA,NA,Toivola
+49965,Ontonagon,MI,Houghton,Ontonagon,NA,NA,Toivola
+49967,Houghton,MI,Ontonagon,Houghton,Iron,NA,Trout Creek
+49967,Ontonagon,MI,Ontonagon,Houghton,Iron,NA,Trout Creek
+49967,Iron,MI,Ontonagon,Houghton,Iron,NA,Trout Creek
+49968,Gogebic,MI,Gogebic,NA,NA,NA,Wakefield
+49969,Gogebic,MI,Gogebic,NA,NA,NA,Watersmeet
+49970,Baraga,MI,Baraga,NA,NA,NA,Watton
+54540,Gogebic,MI,Vilas,Gogebic,NA,NA,Land O Lakes
